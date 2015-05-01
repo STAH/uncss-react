@@ -1,0 +1,28 @@
+{
+  "name": "react-uncss",
+  "version": "0.0.1",
+  "description": "Uncss for Facebook React based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/STAH/uncss-react.git"
+  },
+  "keywords": [
+    "uncss",
+    "optimize",
+    "css",
+    "react"
+  ],
+  "author": "Stanislav Lesnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/STAH/uncss-react/issues"
+  },
+  "homepage": "https://github.com/STAH/uncss-react",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
